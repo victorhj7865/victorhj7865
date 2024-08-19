@@ -36,9 +36,8 @@
 
 <p align="left">-Developer Front-end</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/victorhj7865/victorhj7865/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
