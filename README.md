@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+#
+![profile views](https://komarev.com/ghpvc/?username=rogeraabbccdd)
+#
+
 <h2 align="left">Stats</h2>
 
 ###
